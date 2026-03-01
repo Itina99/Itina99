@@ -1,16 +1,16 @@
-# Hi there, I'm Matteo Tinacci. 👋
+# Hi there, I'm Matteo Tinacci 👋
 
-### 🎓 Computer Engineer | Game Programmer | AI & Computer Vision Enthusiast
+### 🎓 Computer Engineering Student | Game Programming & AI Enthusiast
 
-I am a **Computer Engineering** graduate student (MSc expected April 2026) specializing in **Multimedia Systems**. My work lies at the intersection of **Reinforcement Learning** and **Game Development**, focusing on how adaptive agents can evolve within complex virtual environments.
+I am a **Computer Engineering** graduate student (MSc expected April 2026) specializing in **Multimedia Systems** at the **University of Florence**. My academic journey is currently focused on the intersection of **Reinforcement Learning** and **Human-AI Cooperation**, exploring how agents can learn to adapt to human behavior in interactive environments.
 
 ---
 
 ## 🚀 Quick Overview
-- 🎓 **MSc in Computer Engineering** @ Università degli studi di Firenze.
-- 🧠 **Research Focus:** Online Learning, Self-Play RL, Curriculum Learning, and Contextual Bandits.
-- 🎮 **Game Dev:** Recent **Game Jam Winner** of the Global Game Jam 2026 located in Scuola Comics Firenze.
-- 💻 **Tech Stack:** High-performance C++, Python for ML, and C# for Gameplay.
+- 🎓 **MSc in Computer Engineering** @ Università degli Studi di Firenze.
+- 🧠 **Research Interests:** Cooperative AI, Applied Reinforcement Learning, and Computer Vision.
+- 🎮 **Game Dev:** Winner of the **Global Game Jam 2026** (Florence site).
+- 💻 **Core Tech:** C++ (Parallel Computing), C# (Unity), and Python (Machine Learning).
 
 ---
 
@@ -18,35 +18,64 @@ I am a **Computer Engineering** graduate student (MSc expected April 2026) speci
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
-| **Game Engines** | Unity |
-| **AI & Vision** | PyTorch, TensorFlow, OpenCV, Scikit-learn, ML-Agents |
-| **Graphics** | OpenGL, GLSL Shaders, Real-time Rendering |
-| **DevOps & Tools** | Git, Docker, Linux, CMake, Blender |
+| **Game & Graphics** | Unity, OpenGL, GLSL, L-Systems, Splines, LAN Networking |
+| **AI & Vision** | PyTorch, OpenCV, Unity ML-Agents, Kubric, vid2e |
+| **Performance** | OpenMP, GPU Parallelization (C++), CMake |
+| **DevOps** | Unity Version Control (Plastic SCM), Git, Docker, Linux |
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Featured Projects (Work in Progress)
 
-### 🏛️ MSc Thesis: 
-*Research on Adaptive Agents using Reinforcement Learning in Competitive Environments.*
-- **Key Tech:** Unity ML-Agents.
-- **Focus:** Implemented **Self-Play** and **Curriculum Learning** strategies to stabilize agent training; optimized decision-making using **Contextual Bandits**.
-- [📂 View Repository](#) 
+### 🏛️ MSc Thesis: Adaptive Cooperative AI in "Tanks!"
+*Exploring RL strategies for real-time Human-Agent cooperation.*
+- **Status:** 🚧 In Development (Thesis completion expected April 2026).
+- **Goal:** Developing an AI partner that adapts its strategy to a human teammate using **Self-Play** for pre-training and **Contextual Bandits** for online adaptation.
+- **Key Tech:** Unity ML-Agents, Python, PyTorch.
+- **Note:** Managed via **Unity Version Control**.
 
-### 🏆 Mochbeth - Game Jam Winner
-*Award-winning entry for Global Game Jam 2026.*
-- **Key Tech:** C#, Unity.
-- **My Role:** Game Programmer.
-- [🎮 Play on Itch.io](#) | [📂 Source Code](#)
+### 🏆 Mochbeth - Global Game Jam 2026 Winner
+*A cooperative puzzle prototype centered on communication.*
+- **Status:** 🚀 Active Development (Post-jam refinement).
+- **Goal:** A LAN-based co-op experience where players must synchronize actions to solve puzzles.
+- **My Role:** Game Programmer – Focused on network synchronization and core mechanics.
+- **Key Tech:** C#, Unity, **LAN Networking**.
+- **Note:** Managed via **Unity Version Control**.
 
-### 👁️ [CV Project Name] - Real-time Computer Vision
-*Application of [e.g., Object Detection / Feature Tracking] in dynamic scenes.*
-- **Key Tech:** Python, kubric, vid2e.
-- [📂 Source Code](#)
+---
 
+## 🔬 Other Technical Projects
+
+### 👁️ Computer Vision & AI Research
+* **Event-based Recognition Dataset:** Synthetic dataset generation for multimodal **RGB/Event Camera** systems.  
+  [📂 View Repository](https://github.com/Itina99/VMR)
+* **Parallel LBP:** Texture analysis optimized via **GPU parallelization** of the Local Binary Patterns algorithm.  
+  [📂 View Repository](https://github.com/Itina99/LBP-Parallel)
+* **Chromosome Classification:** Deep learning pipeline for automated medical image analysis.  
+  [📂 View Repository](https://github.com/Itina99/ChromosomesRecognition)
+* **Voronoi-based Exploration:** Multi-agent navigation strategies using **Voronoi cell partitioning**.  
+  [📂 View Repository](https://github.com/Pampaj7/MultiAgentsExploration)
+
+### 🎮 Graphics, Simulation & Game Tech
+* **Parallel Boids:** Flocking simulation optimized through **OpenMP** parallel computing.  
+  [📂 View Repository](https://github.com/Itina99/Boids)
+* **Procedural Enclosures:** Organic environment generation using **Random Noise** and **L-Systems**.  
+  [📂 View Repository](https://github.com/Itina99/Procedural-Enclosure)
+* **Spline Integration:** Pathing and camera systems implemented using the **PyGizmo** library.  
+  [📂 View Repository](https://github.com/Itina99/Numerical-Methods-for-Graphics)
+* **Game Programming Demo:** Technical prototype for the Game Development curriculum focusing on engine basics.  
+  [📂 View Repository](https://github.com/Itina99/Escape-The-Darkness)
+
+### 🛠️ Legacy & Web Projects
+* **Recommendation System (BSc Thesis):** Data-driven approach to personalized content filtering.  
+  [📂 View Repository](https://github.com/Itina99/RecommendApi)
+* **Eye Scape:** Full-stack web application for aquarium management and monitoring.  
+  [📂 View Repository](https://github.com/Itina99/EyeScape)
+
+---
 
 ## 📫 Get in Touch
-- 📧 Email: mattetina@outlook.it
+- 📧 Email: [mattetina@outlook.it](mailto:mattetina@outlook.it)
 
 ---
-*"Blending Engineering rigor with Creative Gameplay."*
+*"Learning to build adaptive systems, one project at a time."*
