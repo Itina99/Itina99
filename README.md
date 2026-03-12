@@ -27,13 +27,6 @@ I am a **Computer Engineering** graduate student (MSc expected April 2026) speci
 
 ## 🔬 Featured Projects (Work in Progress)
 
-### 🏛️ MSc Thesis: Adaptive Cooperative AI in "Tanks!"
-*Exploring RL strategies for real-time Human-Agent cooperation.*
-- **Status:** 🚧 In Development (Thesis completion expected April 2026).
-- **Goal:** Developing an AI partner that adapts its strategy to a human teammate using **Self-Play** for pre-training and **Contextual Bandits** for online adaptation.
-- **Key Tech:** Unity ML-Agents, Python, PyTorch.
-- **Note:** Managed via **Unity Version Control**.
-
 ### 🏆 Mochbeth - Global Game Jam 2026 Winner
 *A cooperative puzzle prototype centered on communication.*
 - **Status:** 🚀 Active Development (Post-jam refinement).
