@@ -8,9 +8,9 @@ I am a **Computer Engineering** graduate student (MSc expected April 2026) speci
 
 ## 🚀 Quick Overview
 - 🎓 **MSc in Computer Engineering** @ Università degli Studi di Firenze.
-- 🧠 **Research Interests:** Cooperative AI, Applied Reinforcement Learning, and Computer Vision.
+- 🧠 **Research Interests:** Automation, Applied Reinforcement Learning, and Computer Vision.
 - 🎮 **Game Dev:** Winner of the **Global Game Jam 2026** (Florence site).
-- 💻 **Core Tech:** C++ (Parallel Computing), C# (Unity), and Python (Machine Learning).
+- 💻 **Core Tech:** C++, C#, and Python.
 
 ---
 
