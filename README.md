@@ -18,10 +18,10 @@ I am a **Computer Engineering** graduate student specializing in **Multimedia Sy
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
-| **Robotics & Simulation** | ROS 2, Gazebo, URDF/Xacro, RViz, Kinematics & Control |
+| **Robotics & Simulation** | ROS 2, Gazebo, RViz, Kinematics & Control |
 | **Game & Graphics** | Unity, OpenGL, GLSL, L-Systems, Splines, LAN Networking |
 | **AI & Vision** | PyTorch, OpenCV, Unity ML-Agents, Kubric, vid2e |
-| **Performance & Systems**| C++, OpenMP, GPU Parallelization, CMake, Linux |
+| **Performance & Systems**| C++, OpenMP, GPU Parallelization, CUDA, CMake, Linux |
 | **DevOps & Tools** | Git, Docker, Unity Version Control (Plastic SCM) |
 
 ---
