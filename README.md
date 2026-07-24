@@ -1,16 +1,16 @@
 # Hi there, I'm Matteo Tinacci 👋
 
-### 🎓 Computer Engineering Student | Game Programming & AI Enthusiast
+### 🎓 Computer Engineering Student | Robotics, Game Programming & AI Enthusiast
 
-I am a **Computer Engineering** graduate student (MSc expected April 2026) specializing in **Multimedia Systems** at the **University of Florence**. My academic journey is currently focused on the intersection of **Reinforcement Learning** and **Human-AI Cooperation**, exploring how agents can learn to adapt to human behavior in interactive environments.
+I am a **Computer Engineering** graduate student specializing in **Multimedia Systems** at the **University of Florence**. My academic journey focuses on **Robotics Simulation**, **Image Processing and Analysis**, and **AI**, exploring how intelligent agents and simulation environments interact with real-world applications.
 
 ---
 
 ## 🚀 Quick Overview
 - 🎓 **MSc in Computer Engineering** @ Università degli Studi di Firenze.
-- 🧠 **Research Interests:** Automation, Applied Reinforcement Learning, and Computer Vision.
+- 🧠 **Research & Core Interests:** Robotics Simulation, Autonomous Systems, Computer Vision, and Game Development.
 - 🎮 **Game Dev:** Winner of the **Global Game Jam 2026** (Florence site).
-- 💻 **Core Tech:** C++, C#, and Python.
+- 💻 **Core Tech:** C++, Python, ROS 2, and C#.
 
 ---
 
@@ -18,16 +18,24 @@ I am a **Computer Engineering** graduate student (MSc expected April 2026) speci
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
+| **Robotics & Simulation** | ROS 2, Gazebo, URDF/Xacro, RViz, Kinematics & Control |
 | **Game & Graphics** | Unity, OpenGL, GLSL, L-Systems, Splines, LAN Networking |
 | **AI & Vision** | PyTorch, OpenCV, Unity ML-Agents, Kubric, vid2e |
-| **Performance** | OpenMP, GPU Parallelization (C++), CMake |
-| **DevOps** | Unity Version Control (Plastic SCM), Git, Docker, Linux |
+| **Performance & Systems**| C++, OpenMP, GPU Parallelization, CMake, Linux |
+| **DevOps & Tools** | Git, Docker, Unity Version Control (Plastic SCM) |
 
 ---
 
-## 🔬 Featured Projects (Work in Progress)
+## 🔬 Featured Projects
 
-### 🏆 Mochbeth - Global Game Jam 2026 Winner
+### 🤖 Spot System — Quadruped Robot Simulator (MSc Thesis Project)
+*ROS 2 and Gazebo simulation environment for the Boston Dynamics Spot quadruped robot.*
+- **Status:** ✅ Completed (Master's Thesis Project).
+- **Goal:** Develop a full-featured simulation environment for Spot, enabling autonomous navigation, sensor integration, and motion control in Gazebo using ROS 2.
+- **Key Tech:** **ROS 2**, **Gazebo**, **C++**, **Python**, URDF, RViz.
+- 📂 [View Repository](https://github.com/Itina99/spot_system)
+
+### 🏆 Mochbeth — Global Game Jam 2026 Winner
 *A cooperative puzzle prototype centered on communication.*
 - **Status:** 🚀 Active Development (Post-jam refinement).
 - **Goal:** A LAN-based co-op experience where players must synchronize actions to solve puzzles.
@@ -71,4 +79,4 @@ I am a **Computer Engineering** graduate student (MSc expected April 2026) speci
 - 📧 Email: [mattetina@outlook.it](mailto:mattetina@outlook.it)
 
 ---
-*"Learning to build adaptive systems, one project at a time."*
+*"Learning to build adaptive systems and robotics, one project at a time."*
